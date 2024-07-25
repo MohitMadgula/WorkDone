@@ -1,0 +1,335 @@
+.service-provider-1 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-top: 62px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .tab-bar {
+    width: 414px;
+    height: 69px;
+  }
+  .service-provider-1 .navigation-bar {
+    margin: 0 21px 22px 21px;
+    display: flex;
+    align-self: flex-start;
+    width: 414px;
+    height: 96px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .title {
+    margin: 0 34.2px 16px 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai Looped';
+    font-weight: 600;
+    font-size: 28px;
+    letter-spacing: 0.4px;
+    line-height: 1.464;
+    color: var(--text-primary, #2D0C57);
+  }
+  .service-provider-1 .item-card {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 12px 1px 0;
+    display: flex;
+    padding: 24px 0 23px 6px;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-1 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 22px 2px 25px 0;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-2 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 24px 0 23px 4px;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-3 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-top: 1px;
+    display: flex;
+    padding: 21px 0 26px 2px;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-4 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 26px 13px 21px 8px;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-5 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 27px 0 20px 11px;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-6 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 26px 1px 21px 0;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-7 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 23px 3px 24px 0;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-8 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 25px 3px 22px 0;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-9 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 24px 0 23px 1px;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-10 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 19px;
+    display: flex;
+    padding: 23px 5px 24px 0;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .item-card-11 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 25px 0 22px 3px;
+    flex-grow: 1;
+    flex-basis: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider-1 .search {
+    border-radius: 27px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 22px 39px 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px 0 12px 22px;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .construction {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .fixing-tiles {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .gardening {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .laundry {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .mechanic-assistant {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .house-keeping {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .painting {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .plumbing {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .raw-material-transporting {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .sewage-cleaning {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .sweeping {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .toilet-cleaning {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider-1 .container {
+    margin: 0 34px 47px 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 69px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .container-1 {
+    margin: 0 34px 47px 38px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 72px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .container-2 {
+    margin: 0 30px 34px 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 65px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .container-3 {
+    margin: 0 34px 11px 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 69px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .container-4 {
+    margin: 0 34px 47px 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 69px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .container-5 {
+    margin: 0 34px 34px 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 69px);
+    box-sizing: border-box;
+  }
+  .service-provider-1 .vector-10 {
+    width: 6px;
+    height: 12px;
+  }
+  .service-provider-1 .text {
+    margin-bottom: 2px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-secondary, #9586A8);
+  }
+  .service-provider-1 .iconsearch {
+    width: 24px;
+    height: 24px;
+  }

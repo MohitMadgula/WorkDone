@@ -1,0 +1,89 @@
+.notice {
+    background: #FFFFFF;
+    display: flex;
+    padding-top: 66.5px;
+    box-sizing: border-box;
+  }
+  .notice .rectangle-56 {
+    background: #801DFF;
+    position: absolute;
+    top: -20px;
+    right: -11px;
+    width: 414px;
+    height: 620px;
+  }
+  .notice .button-primary {
+    border-radius: 8px;
+    background: var(--text-primary, #2D0C57);
+    display: flex;
+    padding: 19px 0 19px 1px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .notice .iununderstand {
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai';
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .notice .important-notice-avoid-identity-fraud-providing-false-information-or-using-someone-elses-identity-in-your-job-application-is-illegal-and-can-lead-to-immediate-disqualification-legal-consequences-and-damage-to-your-professional-reputation-always-ensure-your-information-is-accurate-and-truthful-thank-you-for-your-cooperation {
+    margin: 0 10.1px 87.5px 10.1px;
+    display: inline-block;
+    align-self: flex-start;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai';
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #000000;
+  }
+  .notice .container {
+    border-radius: 52px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 119.5px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding: 31.3px 0;
+    width: 104px;
+    box-sizing: border-box;
+  }
+  .notice .container-1 {
+    border-radius: 34px 34px 0 0;
+    background: #F6F5F5;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 108.5px 26px 120.5px 14px;
+    width: 414px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .notice .rectangle-51 {
+    border-radius: 0 1px 1px 1px;
+    border: 1.2px solid var(--fill-icon, #222222);
+    background: var(--duotone, rgba(42, 65, 87, 0.24));
+    width: 12.9px;
+    height: 13.5px;
+  }
+  .notice .rectangle-52 {
+    border-radius: 0 1px 1px 1px;
+    border: 1.2px solid var(--fill-icon, #222222);
+    background: var(--duotone, rgba(42, 65, 87, 0.24));
+    margin: 31.3px 0 28.4px 0;
+    width: 12.9px;
+    height: 13.5px;
+  }
+  .notice .vector-183 {
+    margin-bottom: 12.9px;
+    width: 16.3px;
+    height: 15.5px;
+  }

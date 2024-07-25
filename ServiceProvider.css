@@ -1,0 +1,616 @@
+.service-provider .item-card {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 12px 1px 0;
+    display: flex;
+    padding: 19px 5px 14px 0;
+    width: 165px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .service-provider .navigation-bar {
+    position: relative;
+    margin: 0 21px 22px 21px;
+    display: flex;
+    align-self: flex-start;
+    width: 414px;
+    height: 96px;
+    box-sizing: border-box;
+  }
+  .service-provider {
+    background: #F6F5F5;
+    display: flex;
+    flex-direction: column;
+    padding-top: 62px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-1 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-top: 1px;
+    display: flex;
+    padding: 18px 0 15px 0;
+    width: 165px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-2 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 17px 0 16px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-3 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 19px 8px 14px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-4 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 16px 0 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-5 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 16px 2px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-6 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 16px 1px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-7 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 14px 0 19px 2px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-8 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 16px 1px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-9 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 16px 0 17px 1px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-10 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 15px;
+    display: flex;
+    padding: 15px 0 18px 1px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-11 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 16px 4px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .begumpet {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .cyberabad {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .himayathnagar {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .lbnagar {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .nanakramguda {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .vikarabad {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .vidyanagar {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .padmaraonagar {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .shivrampalli {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .shamshabad {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .attapur {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .uppal {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .navigation-bar-1 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    width: 414px;
+    height: 96px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-12 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 19px 5px 14px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-13 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 17px 0 16px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-14 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 19px 8px 14px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-15 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 18px 0 15px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-16 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 1px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-17 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 0 17px 1px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-18 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 15px 0 18px 1px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-19 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 4px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-20 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 0 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-21 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 2px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-22 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 16px 1px 17px 0;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .item-card-23 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    display: flex;
+    padding: 14px 0 19px 2px;
+    width: 165px;
+    box-sizing: border-box;
+  }
+  .service-provider .begumpet-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .cyberabad-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .himayathnagar-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .lbnagar-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .nanakramguda-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .vikarabad-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .vidyanagar-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .padmaraonagar-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .shivrampalli-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .shamshabad-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .attapur-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .uppal-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 12px;
+    color: #000000;
+  }
+  .service-provider .container {
+    margin: 0 27px 34px 27px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 345px;
+    box-sizing: border-box;
+  }
+  .service-provider .search {
+    border-radius: 27px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 19px 53px 21px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px 0 12px 22px;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .service-provider .title {
+    margin: 0 21px 13px 21px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai Looped';
+    font-weight: 600;
+    font-size: 34px;
+    letter-spacing: 0.4px;
+    line-height: 1.206;
+    color: var(--text-primary, #2D0C57);
+  }
+  .service-provider .container-1 {
+    margin: 0 30px 47px 30px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 342px;
+    box-sizing: border-box;
+  }
+  .service-provider .tab-bar {
+    width: 414px;
+    height: 69px;
+  }
+  .service-provider .container-2 {
+    margin: 0 27px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 345px;
+    box-sizing: border-box;
+  }
+  .service-provider .container-3 {
+    margin: 0 27px 34px 27px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 345px;
+    box-sizing: border-box;
+  }
+  .service-provider .container-4 {
+    margin: 0 27px 47px 27px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 345px;
+    box-sizing: border-box;
+  }
+  .service-provider .container-5 {
+    margin: 0 27px 47px 27px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 345px;
+    box-sizing: border-box;
+  }
+  .service-provider .vector {
+    position: relative;
+    width: 6px;
+    height: 12px;
+  }
+  .service-provider .vector-1 {
+    width: 6px;
+    height: 12px;
+  }
+  .service-provider .text {
+    margin-bottom: 2px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-secondary, #9586A8);
+  }
+  .service-provider .iconsearch {
+    width: 24px;
+    height: 24px;
+  }

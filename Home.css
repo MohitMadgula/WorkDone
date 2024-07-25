@@ -1,0 +1,114 @@
+.home {
+    background: #FFFFFF;
+    display: flex;
+    padding-top: 310px;
+    box-sizing: border-box;
+  }
+  .home .rectangle-46 {
+    background: #801DFF;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 620px;
+  }
+  .home .rectangle-51 {
+    border-radius: 0 1px 1px 1px;
+    border: 1.2px solid var(--fill-icon, #222222);
+    background: var(--duotone, rgba(42, 65, 87, 0.24));
+    width: 12.9px;
+    height: 13.5px;
+  }
+  .home .rectangle-52 {
+    border-radius: 0 1px 1px 1px;
+    border: 1.2px solid var(--fill-icon, #222222);
+    background: var(--duotone, rgba(42, 65, 87, 0.24));
+    margin: 31.3px 0 28.4px 0;
+    width: 12.9px;
+    height: 13.5px;
+  }
+  .home .vector-183 {
+    margin-bottom: 12.9px;
+    width: 16.3px;
+    height: 15.5px;
+  }
+  .home .connecting-service-providers-with-service-seekers {
+    margin: 0 0 61px 1px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai';
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+  }
+  .home .button-primary {
+    border-radius: 8px;
+    background: var(--primary-button, #0BCE83);
+    display: flex;
+    padding: 15px 40px 23px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .home .service-seeker {
+    margin: 0 0 44px 6px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai';
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .home .service-provider {
+    overflow-wrap: break-word;
+    font-family: 'IBM Plex Sans Thai';
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .home .button-primary-1 {
+    border-radius: 8px;
+    background: var(--text-primary, #2D0C57);
+    position: absolute;
+    left: 21px;
+    right: 19px;
+    bottom: 131px;
+    height: 56px;
+  }
+  .home .container {
+    border-radius: 52px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 0 23px 2px;
+    display: flex;
+    flex-direction: row;
+    padding: 31.3px 0;
+    width: 104px;
+    box-sizing: border-box;
+  }
+  .home .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .container-2 {
+    border-radius: 34px 34px 0 0;
+    background: #F6F5F5;
+    position: relative;
+    display: flex;
+    padding: 66px 19px 52px 21px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }

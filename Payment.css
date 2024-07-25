@@ -1,0 +1,343 @@
+.payment .navigation-bar {
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.01);
+    background: #F6F5F5;
+    position: relative;
+    margin-bottom: 1px;
+    padding: 62px 21px 22px 21px;
+    width: 100%;
+    height: 96px;
+    box-sizing: border-box;
+  }
+  .payment .group-28 {
+    border-radius: 8px;
+    background: #0ACF83;
+    position: relative;
+    margin: 0 20px;
+    display: flex;
+    padding: 19px 1px 19px 0;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .payment .use-this-card {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .payment .text-field {
+    position: relative;
+    margin: 0 20px 23px 20px;
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .payment .text-field-1 {
+    position: relative;
+    margin: 0 20px 23px 20px;
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .payment .text-field-2 {
+    position: relative;
+    margin-right: 22px;
+    padding-top: 21px;
+    flex-grow: 1;
+    flex-basis: 176px;
+    box-sizing: border-box;
+  }
+  .payment .mc-symbol-1 {
+    margin-bottom: 2px;
+    width: 32.4px;
+    height: 20px;
+  }
+  .payment .hint {
+    width: 36px;
+    height: 26px;
+  }
+  .payment .take-aphoto-icon {
+    position: absolute;
+    left: 50%;
+    top: 457px;
+    translate: -50% 0;
+    width: 34px;
+    height: 29px;
+  }
+  .payment .container {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    padding: 14px 13px 12px 13px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .payment {
+    background: var(--background, #F6F5F5);
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 65px;
+    box-sizing: border-box;
+  }
+  .payment .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .payment .container-2 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    padding: 13px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .payment .cvc {
+    position: relative;
+    padding-top: 21px;
+    flex-grow: 1;
+    flex-basis: 176px;
+    box-sizing: border-box;
+  }
+  .payment .title {
+    position: relative;
+    margin: 0 20px 55px 20px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Display', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 0.4px;
+    line-height: 1.367;
+    color: #2D0C57;
+  }
+  .payment .card {
+    border-radius: 8px;
+    background: linear-gradient(90deg, #B993D6, #8CA6DB);
+    position: relative;
+    margin: 0 20px 32px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 31px 29px 29.5px 27px;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .payment .container {
+    box-shadow: 0px 0.7px 3px 0px rgba(77, 5, 169, 0.3);
+    position: relative;
+    margin: 0 0 50.5px 2px;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Display', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 26px;
+    letter-spacing: 2.3px;
+    line-height: 1.189;
+    color: var(--white-1, #FFFFFF);
+  }
+  .payment .alexandra-smith {
+    box-shadow: 0px 0.7px 3px 0px rgba(77, 5, 169, 0.3);
+    margin: 0.5px 15.5px 0 0;
+    display: inline-block;
+    width: 313px;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Display', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.545;
+    text-transform: uppercase;
+    color: var(--white-1, #FFFFFF);
+  }
+  .payment .container-1 {
+    box-shadow: 0px 0.7px 3px 0px rgba(77, 5, 169, 0.3);
+    margin-bottom: 0.5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Display', 'Roboto Condensed';
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    line-height: 1.545;
+    color: var(--white-1, #FFFFFF);
+  }
+  .payment .mc-symbol {
+    position: relative;
+    margin: 0 0.3px 26.5px 0.3px;
+    width: 64.7px;
+    height: 40px;
+  }
+  .payment .ellipse {
+    position: absolute;
+    top: -42px;
+    right: -85px;
+    width: 335px;
+    height: 331px;
+  }
+  .payment .container-3 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12.7px 17.3px 9.3px 13px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .payment .container-4 {
+    border-radius: 8px;
+    border: 1px solid #D9D0E3;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 13px 16.6px 13px 13px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .payment .container-5 {
+    position: relative;
+    margin: 0 20px 122px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .payment .vector-12 {
+    width: 6px;
+    height: 12px;
+  }
+  .payment .alexandra-smith-1 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-primary, #2D0C57);
+  }
+  .payment .name-on-card {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.4px;
+    line-height: 1.571;
+    color: var(--text-secondary, #9586A8);
+  }
+  .payment .hint-1 {
+    margin: 0 14px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .payment .text {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .payment .container-2 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-primary, #2D0C57);
+  }
+  .payment .card-number {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.4px;
+    line-height: 1.571;
+    color: var(--text-secondary, #9586A8);
+  }
+  .payment .hint-2 {
+    margin: 0 14px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .payment .text-1 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .payment .container-3 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-primary, #2D0C57);
+  }
+  .payment .expiry-date {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.4px;
+    line-height: 1.571;
+    color: var(--text-secondary, #9586A8);
+  }
+  .payment .hint-3 {
+    position: absolute;
+    left: 14px;
+    top: 0px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .payment .text-2 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .payment .container-4 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-primary, #2D0C57);
+  }
+  .payment .cvc-1 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.4px;
+    line-height: 1.571;
+    color: var(--text-secondary, #9586A8);
+  }
+  .payment .hint-4 {
+    position: absolute;
+    left: 14px;
+    top: 0px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .payment .text-3 {
+    margin: 1.3px 0 2.7px 0;
+    display: flex;
+    box-sizing: border-box;
+  }

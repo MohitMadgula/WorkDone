@@ -1,0 +1,184 @@
+.service-seeker-2 .address {
+    position: relative;
+    margin: 0 41px 72px 41px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .navigation-bar {
+    box-shadow: 0px 4px 18px 0px rgba(0, 0, 0, 0.01);
+    background: #F6F5F5;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 57px 0 17px 21px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .text {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.5;
+    color: var(--text-secondary, #9586A8);
+  }
+  .service-seeker-2 .iconhome {
+    margin: 0 25px 106px 0;
+    width: 24px;
+    height: 24px;
+  }
+  .service-seeker-2 .button-text {
+    margin-top: 4px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .title {
+    margin-right: 11px;
+    width: 275px;
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.4px;
+    line-height: 1;
+    color: var(--text-primary, #2D0C57);
+  }
+  .service-seeker-2 .button-text-1 {
+    margin: 3px 0 1px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .cell-row-view {
+    position: relative;
+    margin: 0 41px 59px 41px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .checkout {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.294;
+    color: var(--text-primary, #2D0C57);
+  }
+  .service-seeker-2 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 334px;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .arrive-at {
+    margin-right: 11px;
+    width: 86px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 22px;
+    letter-spacing: -0.4px;
+    line-height: 1;
+    color: #000000;
+  }
+  .service-seeker-2 .tab-bar {
+    position: absolute;
+    top: 827px;
+    right: -4px;
+    width: 414px;
+    height: 69px;
+  }
+  .service-seeker-2 .group-29 {
+    border-radius: 8px;
+    background: #0ACF83;
+    position: relative;
+    margin: 0 16px 0 24px;
+    display: flex;
+    padding: 19px 4px 19px 0;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .request-service {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .service-seeker-2 .container {
+    position: relative;
+    margin: 0 29px 28px 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 324.1px;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .container-1 {
+    position: relative;
+    margin: 0 21px 17px 21px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 333.1px;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .navigation-bar-scroll {
+    position: relative;
+    margin-bottom: 34px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .service-seeker-2 .vector {
+    margin: 5px 0;
+    width: 6px;
+    height: 12px;
+  }
+  .service-seeker-2 .change {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: var(--selected-violet, #7203FF);
+  }
+  .service-seeker-2 .change-1 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: var(--selected-violet, #7203FF);
+  }
+  .service-seeker-2 .iconcredit-card {
+    margin: 1px 25px 1px 0;
+    width: 24px;
+    height: 24px;
+  }
+  .service-seeker-2 .text-1 {
+    overflow-wrap: break-word;
+    font-family: 'SF Pro Text', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 17px;
+    letter-spacing: -0.4px;
+    line-height: 1.5;
+    color: var(--text-secondary, #9586A8);
+  }
